@@ -10,14 +10,18 @@
       "vaccines": [
         {
           "date": "2026-04-01",
-          "name": "新城疫"
+          "name": "新城疫",
+          "id": "7d18989c-5384-4510-8e24-ab4030985b42",
+          "registeredBy": ""
         }
       ],
       "transfers": [
         {
           "date": "2026-04-15",
           "from": "育种棚",
-          "to": "北岸棚"
+          "to": "北岸棚",
+          "id": "5998ae88-4792-45aa-9f5f-e1823a44100f",
+          "registeredBy": ""
         }
       ],
       "races": [
