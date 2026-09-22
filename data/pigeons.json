@@ -9,19 +9,25 @@
       "loft": "北岸A棚",
       "vaccines": [
         {
+          "id": "V-SEED-001",
           "date": "2026-04-01",
-          "name": "新城疫"
+          "name": "新城疫",
+          "registeredBy": "档案室"
         }
       ],
       "transfers": [
         {
+          "id": "T-SEED-001",
           "date": "2026-04-15",
           "from": "育种棚",
           "to": "北岸棚"
         }
       ],
+      "transferRequests": [],
+      "amendments": [],
       "races": [
         {
+          "id": "C-SEED-001",
           "date": "2026-06-01",
           "event": "120公里训放",
           "distance": 120,
@@ -39,6 +45,8 @@
       "loft": "种鸽棚",
       "vaccines": [],
       "transfers": [],
+      "transferRequests": [],
+      "amendments": [],
       "races": []
     },
     {
@@ -50,6 +58,8 @@
       "loft": "种鸽棚",
       "vaccines": [],
       "transfers": [],
+      "transferRequests": [],
+      "amendments": [],
       "races": []
     }
   ]
